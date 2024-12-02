@@ -12,9 +12,11 @@
     "postgit": "git push --all"
   },
   "dependencies": {
+    "axios": "^1.7.8",
     "modern-normalize": "^3.0.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
