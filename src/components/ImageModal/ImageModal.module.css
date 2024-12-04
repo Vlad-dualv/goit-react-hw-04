@@ -1,6 +1,6 @@
 .modal {
-  width: 750px;
-  height: 750px;
+  width: 1080px;
+  height: 1080px;
   margin: 0 auto;
   outline: none;
 }
@@ -8,8 +8,8 @@
 .img {
   margin-top: 20%;
   width: 1080px;
-  height: 750px;
-  object-fit: contain;
+  height: 1080px;
+  object-fit: cover;
 }
 
 .overlay {
