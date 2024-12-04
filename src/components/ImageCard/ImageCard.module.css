@@ -1,0 +1,15 @@
+.img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  transition: transform 200ms ease-in;
+}
+
+.img:hover {
+  transform: scale(1.05);
+}
+
+.description {
+  margin-top: 10px;
+  border: 1px solid black;
+}
